@@ -3,7 +3,7 @@
 
 - 🌱Actualmente estoy estudiando **Ing. en desarrollo de software, React, Node.js, Django, algoritmos y programación móvil**
 
-- 👨‍💻 Mi portafolio [https://hebertvillarreal.netlify.app/](https://hebertvillarreal.netlify.app/)
+- 👨‍💻 Mi página web [https://www.hebertvillarreal.me/](https://www.hebertvillarreal.me/)
 
 - 💬 Pregúntame acerca de **JavaScript, C#, Java, HTML**
 
