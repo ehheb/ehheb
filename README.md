@@ -5,7 +5,7 @@
 
 - 👨‍💻 Mi página web [https://www.hebertvillarreal.me/](https://www.hebertvillarreal.me/)
 
-- 💬 Pregúntame acerca de **JavaScript, C#, Java, HTML**
+- 💬 Pregúntame acerca de **Python, Django, JavaScript, HTML**
 
 - 📫 Puedes escribirme a mi correo **hebertvillarreal1@gmail.com**
 
